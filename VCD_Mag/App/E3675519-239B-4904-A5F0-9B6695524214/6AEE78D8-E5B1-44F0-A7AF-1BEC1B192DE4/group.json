@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AEE78D8-E5B1-44F0-A7AF-1BEC1B192DE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 197,
+    "x": 21,
+    "y": 57
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F1E9BA66-039B-4FE2-A534-DF4280795FD5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E30DC614-B5F7-405D-85F2-A6E6A2B19E3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E992FB45-73A9-4277-B01F-749D56489ACB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4590EFF-DAB0-4B50-9EFC-BE1BB380A292"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C079D80-7136-44DB-A7CD-7EDA9BBBF0EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0C1C112-6FFE-46AD-8AE8-2EE6F9C6BB9C"
+    }
+  ],
+  "name": "student list 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
