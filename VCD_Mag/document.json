@@ -2587,7 +2587,8 @@
     "version": 112
   },
   "pages": [
-    "App"
+    "App",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

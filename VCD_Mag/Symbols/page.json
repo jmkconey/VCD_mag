@@ -1,8 +1,8 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "815817d0-e208-11e8-a158-c73c7f1cf791",
+  "do_objectID": "F16FBE73-A1D0-4A48-AD45-DE9D8D694D77",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -24,7 +24,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": -155,
     "guides": [
     ]
   },
@@ -37,20 +37,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "924DDA0E-06A9-4495-AB81-A15782F5D7C5"
-    },
-    {
-      "class": "artboard",
-      "id": "E3675519-239B-4904-A5F0-9B6695524214"
-    },
-    {
-      "class": "artboard",
-      "id": "3079061D-3C00-4D8D-B0CB-51DBD4022F81"
+      "class": "symbolMaster",
+      "id": "5D28D927-CA7A-43D2-BC47-B6022D266C0E"
     }
   ],
-  "name": "App",
-  "nameIsFixed": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -64,9 +56,8 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": -271,
     "guides": [
-      361
     ]
   }
 }

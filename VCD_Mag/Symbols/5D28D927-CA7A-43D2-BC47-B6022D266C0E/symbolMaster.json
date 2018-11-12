@@ -1,8 +1,16 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "815817d0-e208-11e8-a158-c73c7f1cf791",
+  "do_objectID": "5D28D927-CA7A-43D2-BC47-B6022D266C0E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +23,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 91,
+    "width": 254,
+    "x": 100,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "924DDA0E-06A9-4495-AB81-A15782F5D7C5"
-    },
-    {
-      "class": "artboard",
-      "id": "E3675519-239B-4904-A5F0-9B6695524214"
-    },
-    {
-      "class": "artboard",
-      "id": "3079061D-3C00-4D8D-B0CB-51DBD4022F81"
+      "class": "group",
+      "id": "C929E0E8-B692-4928-B187-DB91B40B249B"
     }
   ],
-  "name": "App",
-  "nameIsFixed": true,
+  "name": "new student list",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -62,11 +67,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "991889E3-713C-4A11-A76B-39B18199B752",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
-      361
     ]
   }
 }

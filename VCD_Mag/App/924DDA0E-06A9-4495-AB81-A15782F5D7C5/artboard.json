@@ -31,10 +31,10 @@
     "_class": "simpleGrid",
     "gridSize": 8,
     "isEnabled": true,
-    "thickGridTimes": 10
+    "thickGridTimes": 1
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

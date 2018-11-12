@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "815817d0-e208-11e8-a158-c73c7f1cf791",
+  "do_objectID": "74BBD3AF-FB2A-48CC-801D-0FF7C2041159",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1200,
+    "width": 197,
+    "x": 24,
+    "y": 57
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,20 +30,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "924DDA0E-06A9-4495-AB81-A15782F5D7C5"
+      "class": "shapeGroup",
+      "id": "C1B7AED5-D91A-487C-B28B-DEE4475A4C13"
     },
     {
-      "class": "artboard",
-      "id": "E3675519-239B-4904-A5F0-9B6695524214"
+      "class": "group",
+      "id": "6AEE78D8-E5B1-44F0-A7AF-1BEC1B192DE4"
     },
     {
-      "class": "artboard",
-      "id": "3079061D-3C00-4D8D-B0CB-51DBD4022F81"
+      "class": "group",
+      "id": "1E3F4226-51E0-4A5E-9220-E9DD45125F2C"
     }
   ],
-  "name": "App",
-  "nameIsFixed": true,
+  "name": "student list 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -61,12 +54,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-      361
-    ]
   }
 }

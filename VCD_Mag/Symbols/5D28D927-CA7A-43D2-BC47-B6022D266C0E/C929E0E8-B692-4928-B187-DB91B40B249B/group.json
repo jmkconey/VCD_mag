@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6AEE78D8-E5B1-44F0-A7AF-1BEC1B192DE4",
+  "do_objectID": "C929E0E8-B692-4928-B187-DB91B40B249B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 600,
-    "width": 197,
-    "x": 21,
-    "y": 57
+    "height": 91,
+    "width": 254,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,31 +30,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "F1E9BA66-039B-4FE2-A534-DF4280795FD5"
+      "class": "symbolInstance",
+      "id": "7D3E6AD1-7EE0-4D3B-A0A3-48F0C235B451"
     },
     {
       "class": "symbolInstance",
-      "id": "E30DC614-B5F7-405D-85F2-A6E6A2B19E3A"
+      "id": "E5979C8D-6118-4164-B477-DC8367F205C6"
     },
     {
       "class": "symbolInstance",
-      "id": "E992FB45-73A9-4277-B01F-749D56489ACB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D4590EFF-DAB0-4B50-9EFC-BE1BB380A292"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7C079D80-7136-44DB-A7CD-7EDA9BBBF0EE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C0C1C112-6FFE-46AD-8AE8-2EE6F9C6BB9C"
+      "id": "689E9787-CE01-44FD-856D-911481E3B582"
     }
   ],
-  "name": "student list 2",
+  "name": "student list",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "98F3A000-702B-4A25-84EE-DC4A2872C6A9",
+    "do_objectID": "73A04E9B-7745-465C-95D7-94CC10AAFE67",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3675519-239B-4904-A5F0-9B6695524214",
+  "do_objectID": "3079061D-3C00-4D8D-B0CB-51DBD4022F81",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5B4545AE-F5ED-41C1-B0B4-CDA522841305",
+    "do_objectID": "11A3225A-F8FF-4FE8-A1E9-CE2FD53E7E77",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,25 +24,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C5D52A15-19D0-49ED-88B9-51EEE38F44C8",
+    "do_objectID": "95FB6C10-8217-4EED-8931-CB3449CF7614",
     "height": 1288,
     "width": 320,
-    "x": 449,
+    "x": 869,
     "y": -333
   },
   "grid": {
     "_class": "simpleGrid",
+    "do_objectID": "F098B9B1-91E3-43B4-B62C-D1D6D8B3C879",
     "gridSize": 8,
     "isEnabled": true,
     "thickGridTimes": 1
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3E04C9B4-FAD3-46CB-B172-358574300F05",
+    "do_objectID": "819C0AD5-0411-4457-A956-8204DD08F9FF",
     "guides": [
     ]
   },
@@ -58,24 +59,25 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A1111810-1ED3-49EF-AFA6-BB2D244CFA3D"
+      "id": "EF091F21-E4BB-4A9B-91C6-8414F888C2E2"
     },
     {
       "class": "text",
-      "id": "50DC2996-A62C-4FFE-A341-F9E78C8E554B"
+      "id": "5BC9C1F7-A19F-4EED-98B0-32FEC3591686"
     },
     {
       "class": "text",
-      "id": "7BF134C6-70D8-4592-963D-5A05417BF082"
+      "id": "BB10B55B-D8E5-4AF1-9B3C-86C792C3BE3D"
     },
     {
-      "class": "group",
-      "id": "74BBD3AF-FB2A-48CC-801D-0FF7C2041159"
+      "class": "symbolInstance",
+      "id": "FBC0D7DD-2729-4A56-9D0D-766E12F8BA88"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 35,
+    "do_objectID": "F7CB1A34-CFC4-43CB-A76F-BD4B17735E18",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -88,7 +90,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Home Screen",
+  "name": "Home Screen (1)",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -104,7 +106,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "8E1DAA3F-1341-43CC-B545-0B18B5AF54C0",
+    "do_objectID": "DABD8966-B8C8-4D1E-9D61-5119A098721E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -113,7 +115,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "114F79AD-5901-42A6-80BC-3A7E9E214E0E",
+    "do_objectID": "6CB3E25E-ED7C-4609-B320-06B6D38EE152",
     "guides": [
     ]
   }
