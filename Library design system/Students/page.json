@@ -1,8 +1,8 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "815817d0-e208-11e8-a158-c73c7f1cf791",
+  "do_objectID": "50B127C3-C082-4771-8B8E-1162F8D12A16",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -24,7 +24,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": -417,
     "guides": [
     ]
   },
@@ -37,23 +37,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "924DDA0E-06A9-4495-AB81-A15782F5D7C5"
-    },
-    {
-      "class": "artboard",
-      "id": "E3675519-239B-4904-A5F0-9B6695524214"
-    },
-    {
-      "class": "artboard",
-      "id": "3079061D-3C00-4D8D-B0CB-51DBD4022F81"
-    },
-    {
-      "class": "artboard",
-      "id": "F425F850-F4B2-485F-BFE3-6253FBE07C77"
+      "class": "symbolInstance",
+      "id": "EC212763-B449-49EE-A575-14B67D2F6717"
     }
   ],
-  "name": "App",
+  "name": "Students",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,9 +56,8 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": -332,
     "guides": [
-      361
     ]
   }
 }

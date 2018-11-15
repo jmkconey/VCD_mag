@@ -1,8 +1,8 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "815817d0-e208-11e8-a158-c73c7f1cf791",
+  "do_objectID": "EE01ABB8-D19E-451C-83B0-35897915D913",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -24,7 +24,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
@@ -38,22 +38,10 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "924DDA0E-06A9-4495-AB81-A15782F5D7C5"
-    },
-    {
-      "class": "artboard",
-      "id": "E3675519-239B-4904-A5F0-9B6695524214"
-    },
-    {
-      "class": "artboard",
-      "id": "3079061D-3C00-4D8D-B0CB-51DBD4022F81"
-    },
-    {
-      "class": "artboard",
-      "id": "F425F850-F4B2-485F-BFE3-6253FBE07C77"
+      "id": "8F09AC74-9B58-43CA-9338-6392AA5B623D"
     }
   ],
-  "name": "App",
+  "name": "Library Preview",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,9 +56,8 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
-      361
     ]
   }
 }
